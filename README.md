@@ -1,1 +1,1 @@
-# etch-a-sketch
+Recreation of the Etch-A-Sketch toy using javascript.
